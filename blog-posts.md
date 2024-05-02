@@ -2,7 +2,7 @@ On this page, you'll find all the blog posts and articles that I've written on v
 
 2024
 ---
-- [Platform Engineering is Not Just About Tools - TheNewStack](https://thenewstack.io/platform-engineering-is-not-just-about-the-tools/)
+- [Platform Engineering is Not Just About Tools - TheNewStack](https://thenewstack.io/platform-engineering-is-not-just-about-the-tools/){:target="_blank"}
 - [Decoding Golden Paths: The Highway For Your Developers - PlatformEngineering.org](https://platformengineering.org/blog/decoding-golden-paths-the-highway-for-your-developers)
 - [How To Fail At Platform Engineering - CNCF](https://www.cncf.io/blog/2024/03/08/how-to-fail-at-platform-engineering/)
 - [My KubeCon + CloudNativeCon NA Chicago 2023 Experience - CNCF](https://www.cncf.io/blog/2023/11/28/my-kubecon-cloudnativecon-na-chicago-2023-experience/)
