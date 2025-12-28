@@ -1,4 +1,27 @@
-On this page, you'll find all the blog posts and articles that I've written on various platforms and on various genres including platform engineering, cloud nativ technologies, GitOps, AI to name a few. I'll try my best to keep this as updated as possible. 
+On this page, you'll find all the blog posts and articles that I've written on various platforms and on various genres, including platform engineering, cloud native technologies, GitOps, and AI, to name a few. I'll try my best to keep this as updated as possible. 
+
+2025
+---
+- [How Testkube MCP Enables Intelligent Test Orchestration - Testkube](https://testkube.io/blog/testkube-mcp-intelligent-test-orchestration){:target="_blank"}
+- [How to Test AI-Generated Code (Before It Breaks Production) - Testkube](https://testkube.io/blog/testing-ai-generated-code){:target="_blank"}
+- [When AI Writes More Code Than You Can Test - Testkube](https://testkube.io/blog/when-ai-writes-more-code-than-you-can-test){:target="_blank"}
+- [Integration and E2E Testing in Pipelines: Building Confidence at Scale - Testkube](https://testkube.io/blog/integration-end-to-end-testing-cicd-pipelines){:target="_blank"}
+- [How To Test Microservices: The Cloud Native Way - Testkube](https://testkube.io/blog/cloud-native-microservices-testing-strategies){:target="_blank"}
+- [Cloud Native Testing Maturity Model: 5 Stages to Evolve Your Testing Strategy - Testkube](https://testkube.io/blog/cloud-native-testing-maturity-model){:target="_blank"}
+- [Enterprise Kubernetes Testing: From Code Validation to Business Transformation - Testkube](https://testkube.io/blog/enterprise-kubernetes-testing-business-transformation){:target="_blank"}
+- [Building AI-Assisted Test Workflows with Testkube MCP and GitHub Copilot - Testkube](https://testkube.io/blog/building-ai-assisted-test-workflows-testkube-mcp-github-copilot){:target="_blank"}
+- [Orchestrating Chaos Engineering with Testkube and Chaos Mesh - Testkube](https://testkube.io/blog/orchestrating-chaos-engineering-with-testkube-and-chaos-mesh){:target="_blank"}
+- [Reliability Testing in Kubernetes: How to Build Confidence in Cloud-Native Systems - Testkube](https://testkube.io/blog/reliability-testing-kubernetes-cloud-native-systems){:target="_blank"}
+- [Kubernetes Security Testing Framework: A Guide to Securing Your Cloud-Native Workloads - Testkube](https://testkube.io/blog/kubernetes-security-testing-guide){:target="_blank"}
+- [When to Adopt Kubernetes: The "Pay Now or Pay Later" Dilemma - Testkube](https://testkube.io/blog/when-to-adopt-kubernetes-pay-now-or-pay-later-dilemma){:target="_blank"}
+- [Measuring and Managing Abstraction Debt: Key to Building Flexible Platforms - InfraCloud](https://www.infracloud.io/blogs/measuring-managing-abstraction-debt/){:target="_blank"}
+- [Streamlined Kubernetes Testing: How Testcontainers and Testkube Work Together - Testkube](https://testkube.io/blog/streamlined-kubernetes-testing-with-testcontainers-testkube){:target="_blank"}
+- [AI-Enabled Developer: A Complete Guide to Maximizing Development Productivity - InfraCloud](https://www.infracloud.io/blogs/ai-enabled-developer-maximizing-development-productivity/){:target="_blank"}
+- [How to Integrate Testkube with Helm for Easier Test Management - Testkube](https://testkube.io/blog/how-to-integrate-testkube-with-helm-for-easier-test-management){:target="_blank"}
+- [Model Context Protocol: The USB-C for AI: Simplifying LLM Integration - InfraCloud](https://www.infracloud.io/blogs/model-context-protocol-simplifying-llm-integration/){:target="_blank"}
+- [Infrastructure Testing in Kubernetes - Testkube](https://testkube.io/blog/infrastructure-testing-in-kubernetes){:target="_blank"}
+- [Leveraging Testkube as a Quality Gate in Multi-Stage Deployments with Keptn - Testkube](https://testkube.io/blog/leveraging-testkube-as-a-quality-gate-in-multi-stage-deployments-with-keptn){:target="_blank"}
+
 
 2024
 ---
