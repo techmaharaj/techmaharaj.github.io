@@ -1,5 +1,13 @@
 On this page, you'll find all the blog posts and articles that I've written on various platforms and on various genres, including platform engineering, cloud native technologies, GitOps, and AI, to name a few. I'll try my best to keep this as updated as possible. 
 
+2026
+---
+- [What Nobody Tells You About Golden Paths at Scale](https://www.improving.com/thoughts/what-nobody-tells-you-about-golden-paths-at-scale/){:target="_blank"}
+- [Why Continuous Testing Is the Missing Link in AI-Powered Development](https://testkube.io/blog/continuous-testing-ai-development){:target="_blank"}
+- [From AI Coding to Continuous Validation: Closing the Loop](https://testkube.io/blog/continuous-validation-ai-coding){:target="_blank"}
+- [Why AI Code Demands System-Level QA, Not Just Unit Tests](https://testkube.io/blog/system-level-testing-ai-generated-code){:target="_blank"}
+
+
 2025
 ---
 - [How Testkube MCP Enables Intelligent Test Orchestration - Testkube](https://testkube.io/blog/testkube-mcp-intelligent-test-orchestration){:target="_blank"}
