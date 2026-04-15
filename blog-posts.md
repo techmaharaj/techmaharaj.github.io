@@ -2,10 +2,18 @@ On this page, you'll find all the blog posts and articles that I've written on v
 
 2026
 ---
+- [Where to start with AI agents in Testkube - Testkube](https://testkube.io/blog/where-to-start-ai-agents-testkube)
+- [Orchestrating complex validation scenarios at AI velocity - Testkube](https://testkube.io/blog/orchestrating-complex-validation-ai-velocity)
+- [Using AI to detect flaky tests - Testkube](https://testkube.io/blog/ai-detect-diagnose-flaky-tests-kubernetes)
+- [Building Your First Testkube AI Agent - Testkube](https://testkube.io/blog/building-your-first-testkube-ai-agent)
+- [Decoupled Testing: The Future of Continuous Quality in Kubernetes - Testkube](https://testkube.io/blog/decoupled-testing-the-future-of-continuous-quality-in-kubernetes)
+- [The End of Pipeline Sprawl - Testkube](https://testkube.io/blog/pipeline-sprawl-continuous-feedback-centralized-test-orchestration)
+- [Why Continuous Testing Is the Missing Link in AI-Powered Development - Testkube](https://testkube.io/blog/continuous-testing-ai-development)
 - [What Nobody Tells You About Golden Paths at Scale - Improving](https://www.improving.com/thoughts/what-nobody-tells-you-about-golden-paths-at-scale/){:target="_blank"}
 - [Why Continuous Testing Is the Missing Link in AI-Powered Development - Testkube](https://testkube.io/blog/continuous-testing-ai-development){:target="_blank"}
 - [From AI Coding to Continuous Validation: Closing the Loop - Testkube](https://testkube.io/blog/continuous-validation-ai-coding){:target="_blank"}
 - [Why AI Code Demands System-Level QA, Not Just Unit Tests - Testkube](https://testkube.io/blog/system-level-testing-ai-generated-code){:target="_blank"}
+
 
 
 2025

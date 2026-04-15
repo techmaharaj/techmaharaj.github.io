@@ -1,7 +1,25 @@
+- title: "Build Your Golden Path Construction Playbook: A Maturity-First Implementation Approach"
+  url: "https://www.youtube.com/watch?v=2U9mj9EM_aA"
+  thumbnail: "https://img.youtube.com/vi/2U9mj9EM_aA/0.jpg"
+  event: "Platform Engineering Day - KubeCon + CloudNativeCon Europe 2026"
+  year: "2026"
+
+- title: "Your Most Privileged User Isn't Human: The Agent Security Blindspot"
+  url: "https://www.youtube.com/watch?v=rMNwtStJFjw"
+  thumbnail: "https://img.youtube.com/vi/rMNwtStJFjw/0.jpg"
+  event: "Open Source SecurityCon - KubeCon + CloudNativeCon Europe 2026"
+  year: "2026"
+
 - title: "KubeCon 101 - Tracks and CFPs"
   url: "https://www.youtube.com/watch?v=64oU4SrBCgs"
   thumbnail: "https://img.youtube.com/vi/64oU4SrBCgs/0.jpg"
   event: "Cloud Native Hyderabad January Meetup"
+  year: "2026"
+
+- title: "Why Resilience Testing Matters More Than You Think"
+  url: "https://www.youtube.com/watch?v=pbMopGaaNcg"
+  thumbnail: "https://img.youtube.com/vi/pbMopGaaNcg/0.jpg"
+  event: "Resilience Testing Talks - LitmusChaos"
   year: "2026"
 
 - title: "Economics of Platforms: Building Marketplaces beyond Golden Paths"

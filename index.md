@@ -1,13 +1,14 @@
 Hi there 
 
-Thanks for dropping by. I'm sure you're curious to know who am I and what I do. I'm Atul, a developer relations professional for about 3 years now. I'm currently working as a **Senior Developer Advocate** at **InfraCloud**. 
+Thanks for dropping by. I'm sure you're curious to know who am I and what I do. I'm Atul, a developer relations professional for about 4 years now. I'm currently working as a **Principal Developer Advocate** at **Improving** (_formerly InfraCloud_). 
 
 I'm also a **CNCF Ambassador** where I'm involved in a lot of community activities from organizing meetups to speaking at events, doing webinars and things that help individuals and organizations adopt cloud native technologies. 
 
 In my current role, I've:
 
-- spoken at a **panel discussion** on platform engineering at **KubeCon Paris 2024**
-- delivered a talk at **CloudNative Rejekts in Chicago 2023**
+- **co-chaired KubeCon India 2025** in Hyderabad
+- spoken various KubeCons : Chicago (2023), Paris(2024), Salt Lake City(2024), New Delhi(2024), London(2025), Hyderabad(2025), Atlanta(2025) and Amsterdam(2026)
+- delivered a **Keynote** at **KCD Sri Lanka** (2025) and **KCD Delhi** (2026)
 - spoken at **KCD Chennai, KCD Pune, KCD Pakistan** and a lot of other conferences and meetups
 - organized meetups in Hyderabad as an **organizer of Cloud Native Hyderabad community**
 - conducted **live webinars** on platform engineering, service mesh, etc.
