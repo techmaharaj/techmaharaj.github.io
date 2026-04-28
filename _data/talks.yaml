@@ -10,6 +10,12 @@
   event: "Open Source SecurityCon - KubeCon + CloudNativeCon Europe 2026"
   year: "2026"
 
+- title: "Who Authorised That Agent? Accountability and Identity in Agent-Native Kubernetes"
+  url: "https://www.youtube.com/watch?v=6uPiNumBlNA"
+  thumbnail: "https://img.youtube.com/vi/6uPiNumBlNA/0.jpg"
+  event: "CloudXAI Summit - Bangalore"
+  year: "2026"
+
 - title: "KubeCon 101 - Tracks and CFPs"
   url: "https://www.youtube.com/watch?v=64oU4SrBCgs"
   thumbnail: "https://img.youtube.com/vi/64oU4SrBCgs/0.jpg"
